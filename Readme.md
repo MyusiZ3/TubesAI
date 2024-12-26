@@ -1,6 +1,4 @@
-SUSUAN LIB :
-
-ML BABEEE
+TubesAI
     kacang_recognizer/
     ├── dataset/               # Folder dataset gambar kacang
     │   ├── kacang_tanah/
@@ -12,7 +10,7 @@ ML BABEEE
     ├── scripts/               # Folder untuk semua script Python
     │   ├── training.py        # Script untuk melatih model
     │   ├── predict.py         # Script untuk melakukan prediksi
-    │   ├── augment.py         # Script untuk augmentasi dataset
+    │   ├── augment.py         # Script untuk augmentasi dataset (masiopsional)
     ├── web/                   # Folder untuk web interface
     │   ├── index.php          # Halaman utama web
     │   ├── upload.php         # Script untuk upload gambar
