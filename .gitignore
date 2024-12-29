@@ -1,5 +1,8 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+## Ignore the myenv folder
+myenv/
+venv/
+models/
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/

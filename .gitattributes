@@ -3,6 +3,7 @@
 
 # Melacak file Python dengan Git LFS
 *.py filter=lfs diff=lfs merge=lfs -text
+*.php filter=lfs diff=lfs merge=lfs -text
 
 # Contoh menambahkan file lainnya
 *.txt filter=lfs diff=lfs merge=lfs -text
@@ -14,3 +15,5 @@
 *.jpeg -filter -diff -merge -text
 *.gif -filter -diff -merge -text
 *.bmp -filter -diff -merge -text
+*.webp -filter -diff -merge -text
+*.h5 -filter -diff -merge -text

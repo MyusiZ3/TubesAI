@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kacang Recognizer</title>
-    <link rel="stylesheet" href="assets/style.css">
-
-</head>
-<body>
-    <h1>Welcome to Kacang Recognizer</h1>
-    <form action="upload.php" method="post" enctype="multipart/form-data">
-        <label>Upload Gambar:</label>
-        <input type="file" name="image">
-        <button type="submit">Analyze</button>
-    </form>
-
-    <form action="kamera.php" method="post">
-        <button type="submit">Gunakan Kamera</button>
-    </form>
-</body>
-</html>
+version https://git-lfs.github.com/spec/v1
+oid sha256:504888db8698f47fe51647d7e4497f087db7f7781816c155b9e7c34d443608c2
+size 2427
